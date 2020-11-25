@@ -24,12 +24,14 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 ![Profile views](https://gpvc.arturio.dev/mz-tahmeed)
 
 ```
-- I’m primarily working on Machine Learning and DeepLearning.
-- I’m interested about Astrophysics, LifeScience, Literatures and Psychology. 
-- I love collaboration works, so feel free to reach out. 
-- Ask me about Football. I am less disappointing in these field.
-- Fun fact: Very Funny 😂
+- 💻 I’m primarily working on Machine Learning and DeepLearning
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Lear more and Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw 
+- ⚽ Activity: I love to watch Football
 ```
+
 
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
@@ -41,16 +43,16 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 ![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 
-![badge-hlf][hyperledger-fabric-badge]
 ![badge-ml](https://img.shields.io/badge/machine-learning-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 
 
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
 
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
-![badge-hlf-explorer][hlf-explorer-badge]
+
 ![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 ![badge-flasgger](https://img.shields.io/badge/flasgger-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-heroku](https://img.shields.io/badge/cloud-heroku-f6c819?style=for-the-badge&logo=heroku&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-anaconda](https://img.shields.io/badge/anaconda-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
@@ -62,23 +64,23 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
 
 ![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
   
 ![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 
-![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 
 
 ## Projects 👨‍💻
-### Data-Science-Salary-Prediction 
+
+### Data-Science-Salary-Prediction 📈
 
 <a align="center" href="https://github.com/mz-tahmeed/Data-Science-Salary-Prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Data-Science-Salary-Prediction&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
  
-### Celebrity-Face-Recognition-Project
+### Celebrity-Face-Recognition-Project 🤩
 
 <a align="center" href="https://github.com/mz-tahmeed/Celebrity-Face-Recognition-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Celebrity-Face-Recognition-Project&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
@@ -88,7 +90,7 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 
 ### Pet Projects 🐾
 
-<a align="center" href="https://github.com/mz-tahmeed/Real-Estate-Price-Prediction-Project">
+<a align="left" href="https://github.com/mz-tahmeed/Real-Estate-Price-Prediction-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Real-Estate-Price-Prediction-Project&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
@@ -96,7 +98,7 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Cotton-Disease-Prediction-Project-With-Deep-Learning&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="center" href="https://github.com/mz-tahmeed/Stock-Sentiment-Analysis-Using-News-Headline">
+<a align="right" href="https://github.com/mz-tahmeed/Stock-Sentiment-Analysis-Using-News-Headline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Stock-Sentiment-Analysis-Using-News-Headline&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
