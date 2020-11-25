@@ -110,11 +110,20 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Stock-Sentiment-Analysis-Using-News-Headline&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
+<a align="center" href="https://github.com/mz-tahmeed/Bank-Note-Authentication-with-Docker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Bank-Note-Authentication-with-Docker&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
 <!-- subsel.org -->
 
 ### Gaiming Projects 🎮
 <a align="center" href="https://github.com/mz-tahmeed/Flappy-Bird-AI-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Flappy-Bird-AI-&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
+### Automation Projects 🎮
+<a align="center" href="https://github.com/mz-tahmeed/Simple-Desktop-File-Organizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Simple-Desktop-File-Organizer&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
