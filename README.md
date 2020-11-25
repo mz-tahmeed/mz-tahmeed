@@ -138,7 +138,7 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 
 
 ### wakatime stats
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=mz-tahmeed&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=mztahmeed&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
 
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=mz-tahmeed&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
