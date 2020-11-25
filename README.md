@@ -12,9 +12,11 @@ detailed link is below
  </p>
 
  <p align="center">
-  <!--<a href="https://dev.to/mztahmeed"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/dev.png"></a>-->
+  <a href="https://dev.to/mztahmeed"><img height="30" src="https://github.com/mz-tahmeed/mz-tahmeed/blob/master/icons/dev.png"></a>
   <a href="https://www.linkedin.com/in/zawadtahmeed/"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
-<a href="https://www.buymeacoffee.com/mztahmeed"><img height="30" src="https://i.imgur.com/xfv1dZ5.png"></a>
+    <a href="mailto:zawad.ce@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
+  <a href="https://www.buymeacoffee.com/mztahmeed"><img height="30" src="https://i.imgur.com/xfv1dZ5.png"></a>
+  <a href="https://twitter.com/TahmeedZawad"><img height="30" src="https://github.com/mz-tahmeed/mz-tahmeed/blob/master/icons/twitter.png"></a>
 </p>
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
