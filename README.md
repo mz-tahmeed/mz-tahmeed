@@ -123,7 +123,7 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Flappy-Bird-AI-&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-### Automation Projects 🎮
+### Automation Projects 🤖
 <a align="center" href="https://github.com/mz-tahmeed/Simple-Desktop-File-Organizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Simple-Desktop-File-Organizer&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
