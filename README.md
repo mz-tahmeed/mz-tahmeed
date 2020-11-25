@@ -32,7 +32,7 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 ![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 
-![badge-hlf][hyperledger-fabric-badge]
+
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 
 
@@ -40,23 +40,24 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
 
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
-![badge-hlf-explorer][hlf-explorer-badge]
-![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
+
+![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
 
 ### Seldom 💤
 
-![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
+
 
 
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-couchdb][couchdb-badge]
+
 ![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
   
 
-![badge-avr][atmel-studio-badge]
+
 ![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 
 
