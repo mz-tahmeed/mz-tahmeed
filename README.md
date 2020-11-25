@@ -94,11 +94,11 @@ My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true f
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Real-Estate-Price-Prediction-Project&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="center" href="https://github.com/mz-tahmeed/Cotton-Disease-Prediction-Project-With-Deep-Learning">
+<a align="left" href="https://github.com/mz-tahmeed/Cotton-Disease-Prediction-Project-With-Deep-Learning">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Cotton-Disease-Prediction-Project-With-Deep-Learning&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="right" href="https://github.com/mz-tahmeed/Stock-Sentiment-Analysis-Using-News-Headline">
+<a align="left" href="https://github.com/mz-tahmeed/Stock-Sentiment-Analysis-Using-News-Headline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mz-tahmeed&repo=Stock-Sentiment-Analysis-Using-News-Headline&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
