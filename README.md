@@ -21,7 +21,7 @@ detailed link is below
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Mohammad Zawad Tahmeed and I'm a **software engineer**. I am a true fan of **Machine Learning**! Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
+My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
 
 ![Profile views](https://gpvc.arturio.dev/mz-tahmeed)
 
