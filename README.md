@@ -5,13 +5,14 @@ and https://github.com/appledora
 
 detailed link is below
 -->
-
-[![Header](https://github.com/mz-tahmeed/mz-tahmeed/blob/master/giphy.gif)](https://github.com/mz-tahmeed)
 <!--
+[![Header](https://github.com/mz-tahmeed/mz-tahmeed/blob/master/giphy.gif)](https://github.com/mz-tahmeed)
+-->
+
 <p align="center">
   <img height="400" width="800" src="giphy.gif"/>
- </p>
--->
+</p>
+
  <p align="center">
   <a href="https://dev.to/mztahmeed"><img height="30" src="https://github.com/mz-tahmeed/mz-tahmeed/blob/master/icons/dev.png"></a>
   <a href="https://www.linkedin.com/in/zawadtahmeed/"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
