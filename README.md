@@ -6,10 +6,9 @@ and https://github.com/appledora
 detailed link is below
 -->
 
-[![Header](https://i.imgur.com/Q6hni2u.gif)](https://github.com/shuhanmirza)
 
 <p align="center">
-  <img height="400" width="800" src="hello.gif"/>
+  <img height="400" width="800" src="giphy.gif"/>
  </p>
 
  <p align="center">
