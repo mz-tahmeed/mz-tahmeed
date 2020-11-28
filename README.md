@@ -144,9 +144,12 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=mz-tahmeed&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 <!--START_SECTION:waka-->
-
 ```text
+Week: 20 November, 2020 - 27 November, 2020
 
+Markdown   4 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.36 % 
+TOML       9 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 % 
+Python     2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.00 % 
 ```
 <!--END_SECTION:waka-->
 
