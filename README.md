@@ -146,11 +146,7 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 <!--START_SECTION:waka-->
 
 ```text
-Week: 17 November, 2020 - 24 November, 2020
 
-Python   8 hrs 23 mins   ████████████▓░░░░░░░░░░░░   51.25 % 
-Jupyter  4 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.06 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 
