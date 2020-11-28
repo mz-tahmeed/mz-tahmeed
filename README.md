@@ -145,8 +145,8 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 
 <!--START_SECTION:waka-->
 <!--<<<<<<< HEAD
--->
 =======
+-->
 ```text
 Week: 20 November, 2020 - 27 November, 2020
 
