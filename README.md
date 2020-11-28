@@ -144,10 +144,6 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=mz-tahmeed&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 <!--START_SECTION:waka-->
-
-```text
-
-```
 <!--END_SECTION:waka-->
 
 <!-- Resources -->
