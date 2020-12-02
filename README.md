@@ -23,7 +23,7 @@ detailed link is below
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
+My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
 
 ![Profile views](https://gpvc.arturio.dev/mz-tahmeed)
 
@@ -144,19 +144,20 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning** I Lov
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=mz-tahmeed&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 <!--START_SECTION:waka-->
-<!--<<<<<<< HEAD
-=======
--->
 ```text
-Week: 20 November, 2020 - 27 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
+<<<<<<< HEAD
 Markdown   4 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.36 %
 TOML       9 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 %
 Python     2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.00 %
+=======
+Markdown   7 hrs 19 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.25 % 
+TOML       1 hr 4 mins     ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.51 % 
+YAML       8 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 % 
+Python     2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 % 
+>>>>>>> 9002c6624ba3bdfc65ecd2ab54bb95437a7dd1f0
 ```
-<!--
->>>>>>> d5e27c17459421a8608cdccbd72b6bb9450b0cbb
--->
 <!--END_SECTION:waka-->
 
 <!-- Resources -->
