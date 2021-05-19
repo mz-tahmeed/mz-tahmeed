@@ -145,7 +145,7 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 May, 2021 - 17 May, 2021
+Week: 11 May, 2021 - 18 May, 2021
 
 Other      4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
