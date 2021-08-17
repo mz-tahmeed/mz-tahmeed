@@ -21,7 +21,7 @@ detailed link is below
   <a href="https://twitter.com/TahmeedZawad"><img height="30" src="https://github.com/mz-tahmeed/mz-tahmeed/blob/master/icons/twitter.png"></a>
 </p>
 
-# Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# Hey! Wassup! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
 
