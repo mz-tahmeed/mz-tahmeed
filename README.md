@@ -144,11 +144,13 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=mz-tahmeed&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Other   9 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Other   6 hrs 24 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- Resources -->
