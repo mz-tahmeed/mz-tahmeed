@@ -23,7 +23,7 @@ detailed link is below
 
 # Hey! Wassup! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love to **automate** everything! I'm from Bangladesh, living in Sylhet and currently working as a Lecturer.
+My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love to **automate** everything! I'm from Bangladesh, living in Montreal, Canada and currently pursuing my Master's degree.
 
 ![Profile views](https://gpvc.arturio.dev/mz-tahmeed)
 
@@ -31,7 +31,7 @@ My name is Mohammad Zawad Tahmeed. I am a true fan of **Machine Learning**! Love
 - 💻 I’m primarily working on Machine Learning and DeepLearning
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love collaboration works, so feel free to reach out
-- 🥅 2020 Goals: Lear more and Contribute more to Open Source projects
+- 🥅 2023 Goals: Lear more, Become a Data Scientist and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 - ⚽ Activity: I love to watch Football
 ```
